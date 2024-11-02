@@ -1,2 +1,2 @@
-# whatsapp-desktop
+# WhatsApp Desktop Application
 React based Whatsapp Desktop Application
