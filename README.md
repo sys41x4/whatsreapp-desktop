@@ -69,7 +69,7 @@
 
 <img src="/screenshots/whatsreapp-screenshot-0.png" alt="WhatsReapp Desktop Screenshot 0"/>
 <br><br>
-<img src="/screenshots/whatsreapp-screenshot-0.png" alt="WhatsReapp Desktop Screenshot 1"/>
+<img src="/screenshots/whatsreapp-screenshot-1.png" alt="WhatsReapp Desktop Screenshot 1"/>
 </p>
 
 ---
