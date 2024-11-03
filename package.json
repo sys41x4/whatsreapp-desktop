@@ -1,11 +1,11 @@
 {
-  "name": "whatsapp-desktop",
+  "name": "whatsreapp-desktop",
   "version": "0.0.1",
-  "description": "React based Whatsapp Desktop Application",
+  "description": "WhatsApp Desktop Client",
   "main": "./out/main/index.js",
   "author": "Arijit Bhowmick",
   "homepage": "https://497949.xyz",
-  "productName": "WHATSAPP DESKTOP",
+  "productName": "WHATSREAPP DESKTOP",
   "scripts": {
     "format": "prettier --write .",
     "lint": "eslint . --ext .js,.jsx,.cjs,.mjs,.ts,.tsx,.cts,.mts --fix",

@@ -27,7 +27,7 @@ const TitleBar = ({
       {/* // <nav className={`navbar bg-primary text-white p-2 border-bottom-dark sticky-top`} id="drag"> */}
       <div className={`${styles['container']}`}>
         <div className={`${styles['titlebar']}`}>
-          <p>WhatsApp</p>
+          <p>WhatsReapp</p>
         </div>
 
         <div className={`${styles['actionBtns']}`}>

@@ -1,2 +1,4 @@
-# WhatsApp Desktop Application
-React based Whatsapp Desktop Application
+# WhatsReapp Desktop
+---
+
+An Electron based Desktop Client For WhatsApp
